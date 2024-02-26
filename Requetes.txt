@@ -1,0 +1,7 @@
+use restau
+
+db.createCollection('restaurants')
+
+db.restaurants.insertOne({restaurantName:"Cafe Atlas",cuisineType:"Italian",phoneNumber:"0676893423",latitude:34.688,longtitude:-6.92782,deliveryDistance:8})
+
+db.restaurants.find({})

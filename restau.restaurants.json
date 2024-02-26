@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "65dc887c760f48912dba920c"
+  },
+  "restaurantName": "Cafe Atlas",
+  "cuisineType": "Italian",
+  "phoneNumber": "0676893423",
+  "latitude": 34.688,
+  "longitude": -6.92782,
+  "deliveryDistance": 8
+},
+{
+  "_id": {
+    "$oid": "65dc890e5df47839ce79da1e"
+  },
+  "restaurantName": "Garden Restaurant",
+  "cuisineType": "Mexican",
+  "phoneNumber": "0635796423",
+  "latitude": 33.45678,
+  "longitude": -6.8754,
+  "deliveryDistance": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc9ffe4dbe475292ffe257"
+  },
+  "restaurantName": "Pizzeria Bella",
+  "cuisineType": "Italian",
+  "phoneNumber": "0635796423",
+  "latitude": 34.5678,
+  "longitude": -6.34567,
+  "deliveryDistance": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dca172d495d3aecad50ee3"
+  },
+  "restaurantName": "Fresh and Tasty",
+  "cuisineType": "Indian",
+  "phoneNumber": "0635796423",
+  "latitude": 34.7646,
+  "longitude": -6.8654,
+  "deliveryDistance": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcbd8dd14581fd653de649"
+  },
+  "restaurantName": "Green Garden",
+  "cuisineType": "Italian",
+  "phoneNumber": "0645382901",
+  "latitude": 34.84647,
+  "longitude": -6.3585,
+  "deliveryDistance": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcbdacd14581fd653de64b"
+  },
+  "restaurantName": "Sultan's Palace",
+  "cuisineType": "Mexican",
+  "phoneNumber": "063694268",
+  "latitude": 34.582478,
+  "longitude": -6.428529,
+  "deliveryDistance": 8,
+  "__v": 0
+}]
